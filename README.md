@@ -4,4 +4,4 @@ I study in Netology
 
 09.04.2024
 
-jekyll-theme-minimal
+theme: jekyll-theme-minimal
